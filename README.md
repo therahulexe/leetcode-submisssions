@@ -86,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/therahulexe/leetcode-submisssions/tree/master/0040-combination-sum-ii) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/therahulexe/leetcode-submisssions/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->

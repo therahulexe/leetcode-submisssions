@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/therahulexe/leetcode-submisssions/tree/master/0090-subsets-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/therahulexe/leetcode-submisssions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/therahulexe/leetcode-submisssions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/therahulexe/leetcode-submisssions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3886-sum-of-sortable-integers](https://github.com/therahulexe/leetcode-submisssions/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/therahulexe/leetcode-submisssions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Two Pointers
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/therahulexe/leetcode-submisssions/tree/master/0090-subsets-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/therahulexe/leetcode-submisssions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Dynamic Programming
 |  |
 | ------- |

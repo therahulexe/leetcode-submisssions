@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/therahulexe/leetcode-submisssions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/therahulexe/leetcode-submisssions/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/therahulexe/leetcode-submisssions/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/therahulexe/leetcode-submisssions/tree/master/0058-length-of-last-word) |
 | [0093-restore-ip-addresses](https://github.com/therahulexe/leetcode-submisssions/tree/master/0093-restore-ip-addresses) |
 | [2409-count-days-spent-together](https://github.com/therahulexe/leetcode-submisssions/tree/master/2409-count-days-spent-together) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/therahulexe/leetcode-submisssions/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/therahulexe/leetcode-submisssions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/therahulexe/leetcode-submisssions/tree/master/0069-sqrtx) |
 | [2409-count-days-spent-together](https://github.com/therahulexe/leetcode-submisssions/tree/master/2409-count-days-spent-together) |
@@ -174,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/therahulexe/leetcode-submisssions/tree/master/0053-maximum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/therahulexe/leetcode-submisssions/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->

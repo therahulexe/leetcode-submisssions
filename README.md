@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/therahulexe/leetcode-submisssions/tree/master/0043-multiply-strings) |
+| [0062-unique-paths](https://github.com/therahulexe/leetcode-submisssions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/therahulexe/leetcode-submisssions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/therahulexe/leetcode-submisssions/tree/master/0069-sqrtx) |
 | [2409-count-days-spent-together](https://github.com/therahulexe/leetcode-submisssions/tree/master/2409-count-days-spent-together) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/therahulexe/leetcode-submisssions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/therahulexe/leetcode-submisssions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/therahulexe/leetcode-submisssions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/therahulexe/leetcode-submisssions/tree/master/0062-unique-paths) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/therahulexe/leetcode-submisssions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Greedy
 |  |
@@ -184,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/therahulexe/leetcode-submisssions/tree/master/0043-multiply-strings) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/therahulexe/leetcode-submisssions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

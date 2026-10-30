@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/therahulexe/leetcode-submisssions/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/therahulexe/leetcode-submisssions/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/therahulexe/leetcode-submisssions/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/therahulexe/leetcode-submisssions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/therahulexe/leetcode-submisssions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/therahulexe/leetcode-submisssions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/therahulexe/leetcode-submisssions/tree/master/0066-plus-one) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/therahulexe/leetcode-submisssions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/therahulexe/leetcode-submisssions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/therahulexe/leetcode-submisssions/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/therahulexe/leetcode-submisssions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/therahulexe/leetcode-submisssions/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/therahulexe/leetcode-submisssions/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/therahulexe/leetcode-submisssions/tree/master/0067-add-binary) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/therahulexe/leetcode-submisssions/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/therahulexe/leetcode-submisssions/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/therahulexe/leetcode-submisssions/tree/master/0049-group-anagrams) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/therahulexe/leetcode-submisssions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Binary Indexed Tree
 |  |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/therahulexe/leetcode-submisssions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/therahulexe/leetcode-submisssions/tree/master/0088-merge-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/therahulexe/leetcode-submisssions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3886-sum-of-sortable-integers](https://github.com/therahulexe/leetcode-submisssions/tree/master/3886-sum-of-sortable-integers) |

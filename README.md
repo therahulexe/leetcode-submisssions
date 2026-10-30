@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/therahulexe/leetcode-submisssions/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/therahulexe/leetcode-submisssions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/therahulexe/leetcode-submisssions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/therahulexe/leetcode-submisssions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/therahulexe/leetcode-submisssions/tree/master/0067-add-binary) |
@@ -211,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/therahulexe/leetcode-submisssions/tree/master/0062-unique-paths) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/therahulexe/leetcode-submisssions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->

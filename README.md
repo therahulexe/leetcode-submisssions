@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/therahulexe/leetcode-submisssions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/therahulexe/leetcode-submisssions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/therahulexe/leetcode-submisssions/tree/master/0090-subsets-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/therahulexe/leetcode-submisssions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1254-number-of-closed-islands](https://github.com/therahulexe/leetcode-submisssions/tree/master/1254-number-of-closed-islands) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/therahulexe/leetcode-submisssions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/therahulexe/leetcode-submisssions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/therahulexe/leetcode-submisssions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/therahulexe/leetcode-submisssions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/therahulexe/leetcode-submisssions/tree/master/0069-sqrtx) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/therahulexe/leetcode-submisssions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [2409-count-days-spent-together](https://github.com/therahulexe/leetcode-submisssions/tree/master/2409-count-days-spent-together) |
 | [3886-sum-of-sortable-integers](https://github.com/therahulexe/leetcode-submisssions/tree/master/3886-sum-of-sortable-integers) |
 ## Stack

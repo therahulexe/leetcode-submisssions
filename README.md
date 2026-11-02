@@ -118,12 +118,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/therahulexe/leetcode-submisssions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/therahulexe/leetcode-submisssions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/therahulexe/leetcode-submisssions/tree/master/0100-same-tree) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/therahulexe/leetcode-submisssions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/therahulexe/leetcode-submisssions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/therahulexe/leetcode-submisssions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/therahulexe/leetcode-submisssions/tree/master/0100-same-tree) |
 | [1254-number-of-closed-islands](https://github.com/therahulexe/leetcode-submisssions/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/therahulexe/leetcode-submisssions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/therahulexe/leetcode-submisssions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/therahulexe/leetcode-submisssions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/therahulexe/leetcode-submisssions/tree/master/0100-same-tree) |
 ## Sorting
 |  |
@@ -235,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/therahulexe/leetcode-submisssions/tree/master/0042-trapping-rain-water) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/therahulexe/leetcode-submisssions/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->

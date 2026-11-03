@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/therahulexe/leetcode-submisssions/tree/master/0071-simplify-path) |
 | [0091-decode-ways](https://github.com/therahulexe/leetcode-submisssions/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/therahulexe/leetcode-submisssions/tree/master/0093-restore-ip-addresses) |
+| [1927-sum-game](https://github.com/therahulexe/leetcode-submisssions/tree/master/1927-sum-game) |
 | [2409-count-days-spent-together](https://github.com/therahulexe/leetcode-submisssions/tree/master/2409-count-days-spent-together) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/therahulexe/leetcode-submisssions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/therahulexe/leetcode-submisssions/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/therahulexe/leetcode-submisssions/tree/master/0069-sqrtx) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/therahulexe/leetcode-submisssions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/therahulexe/leetcode-submisssions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1927-sum-game](https://github.com/therahulexe/leetcode-submisssions/tree/master/1927-sum-game) |
 | [2409-count-days-spent-together](https://github.com/therahulexe/leetcode-submisssions/tree/master/2409-count-days-spent-together) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/therahulexe/leetcode-submisssions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/therahulexe/leetcode-submisssions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/therahulexe/leetcode-submisssions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/therahulexe/leetcode-submisssions/tree/master/0055-jump-game) |
+| [1927-sum-game](https://github.com/therahulexe/leetcode-submisssions/tree/master/1927-sum-game) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -245,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/therahulexe/leetcode-submisssions/tree/master/0098-validate-binary-search-tree) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/therahulexe/leetcode-submisssions/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->

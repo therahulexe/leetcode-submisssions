@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/therahulexe/leetcode-submisssions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/therahulexe/leetcode-submisssions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2409-count-days-spent-together](https://github.com/therahulexe/leetcode-submisssions/tree/master/2409-count-days-spent-together) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/therahulexe/leetcode-submisssions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/therahulexe/leetcode-submisssions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3886-sum-of-sortable-integers](https://github.com/therahulexe/leetcode-submisssions/tree/master/3886-sum-of-sortable-integers) |
 ## Stack

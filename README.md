@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/therahulexe/leetcode-submisssions/tree/master/0093-restore-ip-addresses) |
 | [1927-sum-game](https://github.com/therahulexe/leetcode-submisssions/tree/master/1927-sum-game) |
 | [2409-count-days-spent-together](https://github.com/therahulexe/leetcode-submisssions/tree/master/2409-count-days-spent-together) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/therahulexe/leetcode-submisssions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/therahulexe/leetcode-submisssions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/therahulexe/leetcode-submisssions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## String Matching
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/therahulexe/leetcode-submisssions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/therahulexe/leetcode-submisssions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Heap (Priority Queue)
 |  |

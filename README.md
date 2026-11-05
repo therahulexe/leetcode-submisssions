@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/therahulexe/leetcode-submisssions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/therahulexe/leetcode-submisssions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/therahulexe/leetcode-submisssions/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/therahulexe/leetcode-submisssions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1872-stone-game-viii](https://github.com/therahulexe/leetcode-submisssions/tree/master/1872-stone-game-viii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/therahulexe/leetcode-submisssions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/therahulexe/leetcode-submisssions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/therahulexe/leetcode-submisssions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/therahulexe/leetcode-submisssions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/therahulexe/leetcode-submisssions/tree/master/0088-merge-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/therahulexe/leetcode-submisssions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/therahulexe/leetcode-submisssions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/therahulexe/leetcode-submisssions/tree/master/0088-merge-sorted-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/therahulexe/leetcode-submisssions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/therahulexe/leetcode-submisssions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/therahulexe/leetcode-submisssions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3886-sum-of-sortable-integers](https://github.com/therahulexe/leetcode-submisssions/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Search
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/therahulexe/leetcode-submisssions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/therahulexe/leetcode-submisssions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/therahulexe/leetcode-submisssions/tree/master/0069-sqrtx) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/therahulexe/leetcode-submisssions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/therahulexe/leetcode-submisssions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Backtracking
 |  |

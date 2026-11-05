@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/therahulexe/leetcode-submisssions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/therahulexe/leetcode-submisssions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/therahulexe/leetcode-submisssions/tree/master/3665-twisted-mirror-path-count) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/therahulexe/leetcode-submisssions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/therahulexe/leetcode-submisssions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/therahulexe/leetcode-submisssions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/therahulexe/leetcode-submisssions/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/therahulexe/leetcode-submisssions/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/therahulexe/leetcode-submisssions/tree/master/0090-subsets-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/therahulexe/leetcode-submisssions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/therahulexe/leetcode-submisssions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/therahulexe/leetcode-submisssions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/therahulexe/leetcode-submisssions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Dynamic Programming

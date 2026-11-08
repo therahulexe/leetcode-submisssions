@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/therahulexe/leetcode-submisssions/tree/master/0069-sqrtx) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/therahulexe/leetcode-submisssions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/therahulexe/leetcode-submisssions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0836-rectangle-overlap](https://github.com/therahulexe/leetcode-submisssions/tree/master/0836-rectangle-overlap) |
 | [1872-stone-game-viii](https://github.com/therahulexe/leetcode-submisssions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/therahulexe/leetcode-submisssions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/therahulexe/leetcode-submisssions/tree/master/2029-stone-game-ix) |
@@ -324,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/therahulexe/leetcode-submisssions/tree/master/2029-stone-game-ix) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/therahulexe/leetcode-submisssions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->

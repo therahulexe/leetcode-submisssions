@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/therahulexe/leetcode-submisssions/tree/master/0071-simplify-path) |
 | [0091-decode-ways](https://github.com/therahulexe/leetcode-submisssions/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/therahulexe/leetcode-submisssions/tree/master/0093-restore-ip-addresses) |
+| [0115-distinct-subsequences](https://github.com/therahulexe/leetcode-submisssions/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/therahulexe/leetcode-submisssions/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/therahulexe/leetcode-submisssions/tree/master/1927-sum-game) |
 | [2409-count-days-spent-together](https://github.com/therahulexe/leetcode-submisssions/tree/master/2409-count-days-spent-together) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/therahulexe/leetcode-submisssions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/therahulexe/leetcode-submisssions/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/therahulexe/leetcode-submisssions/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/therahulexe/leetcode-submisssions/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/therahulexe/leetcode-submisssions/tree/master/0940-distinct-subsequences-ii) |
 | [1872-stone-game-viii](https://github.com/therahulexe/leetcode-submisssions/tree/master/1872-stone-game-viii) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/therahulexe/leetcode-submisssions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |

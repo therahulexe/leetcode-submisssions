@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/therahulexe/leetcode-submisssions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/therahulexe/leetcode-submisssions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/therahulexe/leetcode-submisssions/tree/master/0100-same-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/therahulexe/leetcode-submisssions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/therahulexe/leetcode-submisssions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/therahulexe/leetcode-submisssions/tree/master/0100-same-tree) |
 | [1254-number-of-closed-islands](https://github.com/therahulexe/leetcode-submisssions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/therahulexe/leetcode-submisssions/tree/master/1267-count-servers-that-communicate) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/therahulexe/leetcode-submisssions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/therahulexe/leetcode-submisssions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/therahulexe/leetcode-submisssions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/therahulexe/leetcode-submisssions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/therahulexe/leetcode-submisssions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/therahulexe/leetcode-submisssions/tree/master/0100-same-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/therahulexe/leetcode-submisssions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Sorting
 |  |
 | ------- |

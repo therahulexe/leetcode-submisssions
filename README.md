@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/therahulexe/leetcode-submisssions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2747-count-zero-request-servers](https://github.com/therahulexe/leetcode-submisssions/tree/master/2747-count-zero-request-servers) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/therahulexe/leetcode-submisssions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/therahulexe/leetcode-submisssions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/therahulexe/leetcode-submisssions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/therahulexe/leetcode-submisssions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/therahulexe/leetcode-submisssions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/therahulexe/leetcode-submisssions/tree/master/0049-group-anagrams) |
 | [2747-count-zero-request-servers](https://github.com/therahulexe/leetcode-submisssions/tree/master/2747-count-zero-request-servers) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/therahulexe/leetcode-submisssions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/therahulexe/leetcode-submisssions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/therahulexe/leetcode-submisssions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/therahulexe/leetcode-submisssions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Binary Indexed Tree
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/therahulexe/leetcode-submisssions/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/therahulexe/leetcode-submisssions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/therahulexe/leetcode-submisssions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/therahulexe/leetcode-submisssions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Heap (Priority Queue)
 |  |

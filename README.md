@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/therahulexe/leetcode-submisssions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/therahulexe/leetcode-submisssions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/therahulexe/leetcode-submisssions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/therahulexe/leetcode-submisssions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/therahulexe/leetcode-submisssions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/therahulexe/leetcode-submisssions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/therahulexe/leetcode-submisssions/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/therahulexe/leetcode-submisssions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/therahulexe/leetcode-submisssions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/therahulexe/leetcode-submisssions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/therahulexe/leetcode-submisssions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Math
 |  |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/therahulexe/leetcode-submisssions/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/therahulexe/leetcode-submisssions/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/therahulexe/leetcode-submisssions/tree/master/0094-binary-tree-inorder-traversal) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/therahulexe/leetcode-submisssions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Tree
 |  |
 | ------- |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/therahulexe/leetcode-submisssions/tree/master/0042-trapping-rain-water) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/therahulexe/leetcode-submisssions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -333,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/therahulexe/leetcode-submisssions/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/therahulexe/leetcode-submisssions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/therahulexe/leetcode-submisssions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/therahulexe/leetcode-submisssions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/therahulexe/leetcode-submisssions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Heap (Priority Queue)
 |  |
@@ -385,4 +390,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/therahulexe/leetcode-submisssions/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/therahulexe/leetcode-submisssions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/therahulexe/leetcode-submisssions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->

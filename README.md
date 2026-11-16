@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/therahulexe/leetcode-submisssions/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/therahulexe/leetcode-submisssions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/therahulexe/leetcode-submisssions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/therahulexe/leetcode-submisssions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/therahulexe/leetcode-submisssions/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/therahulexe/leetcode-submisssions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/therahulexe/leetcode-submisssions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/therahulexe/leetcode-submisssions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/therahulexe/leetcode-submisssions/tree/master/0067-add-binary) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/therahulexe/leetcode-submisssions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/therahulexe/leetcode-submisssions/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Combinatorics
 |  |
 | ------- |

@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-smallest-divisible-digit-product-ii](https://github.com/therahulexe/leetcode-submisssions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/therahulexe/leetcode-submisssions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/therahulexe/leetcode-submisssions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/therahulexe/leetcode-submisssions/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/therahulexe/leetcode-submisssions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/therahulexe/leetcode-submisssions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3870-count-commas-in-range](https://github.com/therahulexe/leetcode-submisssions/tree/master/3870-count-commas-in-range) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3665-twisted-mirror-path-count](https://github.com/therahulexe/leetcode-submisssions/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/therahulexe/leetcode-submisssions/tree/master/3693-climbing-stairs-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/therahulexe/leetcode-submisssions/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/therahulexe/leetcode-submisssions/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/therahulexe/leetcode-submisssions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Greedy
 |  |

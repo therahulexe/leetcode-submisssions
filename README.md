@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/therahulexe/leetcode-submisssions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/therahulexe/leetcode-submisssions/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/therahulexe/leetcode-submisssions/tree/master/3693-climbing-stairs-ii) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/therahulexe/leetcode-submisssions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/therahulexe/leetcode-submisssions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Greedy
 |  |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/therahulexe/leetcode-submisssions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1872-stone-game-viii](https://github.com/therahulexe/leetcode-submisssions/tree/master/1872-stone-game-viii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/therahulexe/leetcode-submisssions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/therahulexe/leetcode-submisssions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3904-smallest-stable-index-ii](https://github.com/therahulexe/leetcode-submisssions/tree/master/3904-smallest-stable-index-ii) |
 ## Zero-Sum Game
 |  |

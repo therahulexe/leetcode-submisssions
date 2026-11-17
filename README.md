@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/therahulexe/leetcode-submisssions/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/therahulexe/leetcode-submisssions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/therahulexe/leetcode-submisssions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/therahulexe/leetcode-submisssions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/therahulexe/leetcode-submisssions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/therahulexe/leetcode-submisssions/tree/master/0006-zigzag-conversion) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/therahulexe/leetcode-submisssions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/therahulexe/leetcode-submisssions/tree/master/0038-count-and-say) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/therahulexe/leetcode-submisssions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/therahulexe/leetcode-submisssions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/therahulexe/leetcode-submisssions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/therahulexe/leetcode-submisssions/tree/master/0045-jump-game-ii) |
@@ -459,4 +462,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/therahulexe/leetcode-submisssions/tree/master/3310-remove-methods-from-project) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/therahulexe/leetcode-submisssions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->

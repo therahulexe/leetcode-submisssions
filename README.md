@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/therahulexe/leetcode-submisssions/tree/master/2029-stone-game-ix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/therahulexe/leetcode-submisssions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/therahulexe/leetcode-submisssions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/therahulexe/leetcode-submisssions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/therahulexe/leetcode-submisssions/tree/master/2747-count-zero-request-servers) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/therahulexe/leetcode-submisssions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/therahulexe/leetcode-submisssions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/therahulexe/leetcode-submisssions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/therahulexe/leetcode-submisssions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/therahulexe/leetcode-submisssions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/therahulexe/leetcode-submisssions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/therahulexe/leetcode-submisssions/tree/master/2747-count-zero-request-servers) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/therahulexe/leetcode-submisssions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3886-sum-of-sortable-integers](https://github.com/therahulexe/leetcode-submisssions/tree/master/3886-sum-of-sortable-integers) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/therahulexe/leetcode-submisssions/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/therahulexe/leetcode-submisssions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/therahulexe/leetcode-submisssions/tree/master/2029-stone-game-ix) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/therahulexe/leetcode-submisssions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/therahulexe/leetcode-submisssions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/therahulexe/leetcode-submisssions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/therahulexe/leetcode-submisssions/tree/master/3789-minimum-cost-to-acquire-required-items) |

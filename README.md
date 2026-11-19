@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/therahulexe/leetcode-submisssions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/therahulexe/leetcode-submisssions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0877-stone-game](https://github.com/therahulexe/leetcode-submisssions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/therahulexe/leetcode-submisssions/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/therahulexe/leetcode-submisssions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/therahulexe/leetcode-submisssions/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/therahulexe/leetcode-submisssions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/therahulexe/leetcode-submisssions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/therahulexe/leetcode-submisssions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/therahulexe/leetcode-submisssions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/therahulexe/leetcode-submisssions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/therahulexe/leetcode-submisssions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/therahulexe/leetcode-submisssions/tree/master/1510-stone-game-iv) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/therahulexe/leetcode-submisssions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/therahulexe/leetcode-submisssions/tree/master/0115-distinct-subsequences) |
 | [0877-stone-game](https://github.com/therahulexe/leetcode-submisssions/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/therahulexe/leetcode-submisssions/tree/master/0940-distinct-subsequences-ii) |
+| [1140-stone-game-ii](https://github.com/therahulexe/leetcode-submisssions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/therahulexe/leetcode-submisssions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/therahulexe/leetcode-submisssions/tree/master/1510-stone-game-iv) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/therahulexe/leetcode-submisssions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -390,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/therahulexe/leetcode-submisssions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/therahulexe/leetcode-submisssions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/therahulexe/leetcode-submisssions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/therahulexe/leetcode-submisssions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/therahulexe/leetcode-submisssions/tree/master/1563-stone-game-v) |
@@ -415,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/therahulexe/leetcode-submisssions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/therahulexe/leetcode-submisssions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/therahulexe/leetcode-submisssions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/therahulexe/leetcode-submisssions/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/therahulexe/leetcode-submisssions/tree/master/1872-stone-game-viii) |
@@ -422,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/therahulexe/leetcode-submisssions/tree/master/1140-stone-game-ii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/therahulexe/leetcode-submisssions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1872-stone-game-viii](https://github.com/therahulexe/leetcode-submisssions/tree/master/1872-stone-game-viii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/therahulexe/leetcode-submisssions/tree/master/3364-minimum-positive-sum-subarray) |
@@ -431,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/therahulexe/leetcode-submisssions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/therahulexe/leetcode-submisssions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/therahulexe/leetcode-submisssions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/therahulexe/leetcode-submisssions/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/therahulexe/leetcode-submisssions/tree/master/1872-stone-game-viii) |

@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/therahulexe/leetcode-submisssions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/therahulexe/leetcode-submisssions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/therahulexe/leetcode-submisssions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/therahulexe/leetcode-submisssions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/therahulexe/leetcode-submisssions/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/therahulexe/leetcode-submisssions/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/therahulexe/leetcode-submisssions/tree/master/0066-plus-one) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/therahulexe/leetcode-submisssions/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/therahulexe/leetcode-submisssions/tree/master/0054-spiral-matrix) |
 | [1254-number-of-closed-islands](https://github.com/therahulexe/leetcode-submisssions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/therahulexe/leetcode-submisssions/tree/master/1267-count-servers-that-communicate) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/therahulexe/leetcode-submisssions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/therahulexe/leetcode-submisssions/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/therahulexe/leetcode-submisssions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/therahulexe/leetcode-submisssions/tree/master/0067-add-binary) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/therahulexe/leetcode-submisssions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/therahulexe/leetcode-submisssions/tree/master/2243-calculate-digit-sum-of-a-string) |

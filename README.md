@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/therahulexe/leetcode-submisssions/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/therahulexe/leetcode-submisssions/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/therahulexe/leetcode-submisssions/tree/master/0066-plus-one) |
+| [0079-word-search](https://github.com/therahulexe/leetcode-submisssions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/therahulexe/leetcode-submisssions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/therahulexe/leetcode-submisssions/tree/master/0090-subsets-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/therahulexe/leetcode-submisssions/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/therahulexe/leetcode-submisssions/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/therahulexe/leetcode-submisssions/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/therahulexe/leetcode-submisssions/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/therahulexe/leetcode-submisssions/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/therahulexe/leetcode-submisssions/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/therahulexe/leetcode-submisssions/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/therahulexe/leetcode-submisssions/tree/master/0115-distinct-subsequences) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/therahulexe/leetcode-submisssions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/therahulexe/leetcode-submisssions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/therahulexe/leetcode-submisssions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/therahulexe/leetcode-submisssions/tree/master/0100-same-tree) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/therahulexe/leetcode-submisssions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/therahulexe/leetcode-submisssions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/therahulexe/leetcode-submisssions/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/therahulexe/leetcode-submisssions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/therahulexe/leetcode-submisssions/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/therahulexe/leetcode-submisssions/tree/master/0093-restore-ip-addresses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/therahulexe/leetcode-submisssions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -283,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/therahulexe/leetcode-submisssions/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/therahulexe/leetcode-submisssions/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/therahulexe/leetcode-submisssions/tree/master/0079-word-search) |
 | [1254-number-of-closed-islands](https://github.com/therahulexe/leetcode-submisssions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/therahulexe/leetcode-submisssions/tree/master/1267-count-servers-that-communicate) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/therahulexe/leetcode-submisssions/tree/master/3568-minimum-moves-to-clean-the-classroom) |

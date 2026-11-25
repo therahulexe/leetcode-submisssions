@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/therahulexe/leetcode-submisssions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/therahulexe/leetcode-submisssions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/therahulexe/leetcode-submisssions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/therahulexe/leetcode-submisssions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/therahulexe/leetcode-submisssions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/therahulexe/leetcode-submisssions/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/therahulexe/leetcode-submisssions/tree/master/0041-first-missing-positive) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/therahulexe/leetcode-submisssions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/therahulexe/leetcode-submisssions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/therahulexe/leetcode-submisssions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/therahulexe/leetcode-submisssions/tree/master/0049-group-anagrams) |
 | [1386-cinema-seat-allocation](https://github.com/therahulexe/leetcode-submisssions/tree/master/1386-cinema-seat-allocation) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/therahulexe/leetcode-submisssions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/therahulexe/leetcode-submisssions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/therahulexe/leetcode-submisssions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/therahulexe/leetcode-submisssions/tree/master/0046-permutations) |
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/therahulexe/leetcode-submisssions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/therahulexe/leetcode-submisssions/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/therahulexe/leetcode-submisssions/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/therahulexe/leetcode-submisssions/tree/master/0079-word-search) |
 | [0835-image-overlap](https://github.com/therahulexe/leetcode-submisssions/tree/master/0835-image-overlap) |
@@ -564,4 +568,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/therahulexe/leetcode-submisssions/tree/master/3934-smallest-unique-subarray) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/therahulexe/leetcode-submisssions/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/therahulexe/leetcode-submisssions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->

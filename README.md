@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/therahulexe/leetcode-submisssions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/therahulexe/leetcode-submisssions/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/therahulexe/leetcode-submisssions/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/therahulexe/leetcode-submisssions/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/therahulexe/leetcode-submisssions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/therahulexe/leetcode-submisssions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/therahulexe/leetcode-submisssions/tree/master/0043-multiply-strings) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/therahulexe/leetcode-submisssions/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/therahulexe/leetcode-submisssions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/therahulexe/leetcode-submisssions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/therahulexe/leetcode-submisssions/tree/master/0041-first-missing-positive) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/therahulexe/leetcode-submisssions/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/therahulexe/leetcode-submisssions/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/therahulexe/leetcode-submisssions/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/therahulexe/leetcode-submisssions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/therahulexe/leetcode-submisssions/tree/master/0062-unique-paths) |

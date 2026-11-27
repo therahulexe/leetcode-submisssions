@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/therahulexe/leetcode-submisssions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/therahulexe/leetcode-submisssions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/therahulexe/leetcode-submisssions/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/therahulexe/leetcode-submisssions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/therahulexe/leetcode-submisssions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/therahulexe/leetcode-submisssions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/therahulexe/leetcode-submisssions/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/therahulexe/leetcode-submisssions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/therahulexe/leetcode-submisssions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/therahulexe/leetcode-submisssions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/therahulexe/leetcode-submisssions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3886-sum-of-sortable-integers](https://github.com/therahulexe/leetcode-submisssions/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Search
 |  |
@@ -591,4 +593,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/therahulexe/leetcode-submisssions/tree/master/0037-sudoku-solver) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/therahulexe/leetcode-submisssions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
